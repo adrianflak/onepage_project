@@ -1,4 +1,4 @@
-name: Deploy on FTP 1
+name: Deploy on FTP 12
 on: 
   push:
     branches:
